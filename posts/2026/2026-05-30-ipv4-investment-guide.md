@@ -7,7 +7,7 @@ tags:
   - investing
   - networking
   - digital-assets
-canonical: https://ipv4center.com/blog/ipv4-investment-guide
+canonical: https://medium.com/@mustafa-ipv4center/is-ipv4-a-smart-investment-in-2026-the-numbers-nobody-talks-about-ab58bf0af5ad
 ---
 
 <!--
