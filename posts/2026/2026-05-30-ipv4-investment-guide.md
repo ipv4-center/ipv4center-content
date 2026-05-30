@@ -21,7 +21,7 @@ canonical: https://mustafa-ipv4center.medium.com/is-ipv4-a-smart-investment-in-2
 
 ### A finite digital asset that pays you every month — here's the real math behind buying and leasing IPv4 addresses.
 
-![Subtitle image suggestion: a glowing digital globe of network connections with rising charts. Caption: "IPv4 — the internet's scarce real estate."]
+![IPv4 — the internet's scarce real estate](../../media/images/ipv4_supply_demand.png)
 
 When people think about alternative investments, they reach for the usual list: stocks, real estate, gold, crypto. Almost nobody mentions the one asset that quietly powers the entire internet and has become genuinely scarce — **IPv4 addresses**.
 
