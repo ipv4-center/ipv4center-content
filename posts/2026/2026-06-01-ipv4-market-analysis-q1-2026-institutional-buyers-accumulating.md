@@ -28,7 +28,7 @@ Fewer transactions. More money.
 
 That is one of the clearest signs that the market is shifting from retail-style purchasing toward **institutional accumulation**.
 
-![IPv4 transaction volume and value comparison Q1 2025 vs Q1 2026](/blog/ipv4-market-analysis-q1-2026/01-fewer-transactions-more-capital.png)
+![IPv4 transaction volume and value comparison Q1 2025 vs Q1 2026](../../media/images/ipv4-market-analysis-q1-2026/01-fewer-transactions-more-capital.png)
 
 ## Buyers Are Not Leaving the Market—They Are Buying Bigger
 
@@ -38,7 +38,7 @@ While smaller IPv4 holders are focused on falling per-IP prices, larger buyers a
 
 This behavior explains why overall transaction value increased despite fewer completed transfers. The money never left the market. It simply became concentrated in larger acquisitions.
 
-![Large IPv4 transactions dominate Q1 2026 market value](/blog/ipv4-market-analysis-q1-2026/03-q1-2026-value-concentration.png)
+![Large IPv4 transactions dominate Q1 2026 market value](../../media/images/ipv4-market-analysis-q1-2026/03-q1-2026-value-concentration.png)
 
 ## Fear Is Dominating Seller Sentiment
 
@@ -60,7 +60,7 @@ Meanwhile, large buyers remain patient. They know supply is finite. And they kno
 
 Historical data shows that **IPv4 pricing** has experienced multiple cycles over the last decade.
 
-![Historical average IPv4 price per IP address](/blog/ipv4-market-analysis-q1-2026/02-average-ipv4-price-per-ip.png)
+![Historical average IPv4 price per IP address](../../media/images/ipv4-market-analysis-q1-2026/02-average-ipv4-price-per-ip.png)
 
 While prices have corrected significantly from their peaks, transaction activity remains healthy and demand continues to evolve. The current correction is occurring alongside a notable shift toward larger block acquisitions and infrastructure-driven demand.
 
@@ -91,7 +91,7 @@ The current environment looks less like a market collapse and more like a redist
 - AI demand is accelerating
 - Supply remains permanently fixed
 
-![Projected IPv4 price recovery scenario for 2027 and 2028](/blog/ipv4-market-analysis-q1-2026/04-possible-ipv4-price-recovery-scenario.png)
+![Projected IPv4 price recovery scenario for 2027 and 2028](../../media/images/ipv4-market-analysis-q1-2026/04-possible-ipv4-price-recovery-scenario.png)
 
 *Note: The 2027–2028 figures shown above represent market expectations and scenario estimates, not reported Escrow.com transaction data.*
 
